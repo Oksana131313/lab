@@ -1,0 +1,17 @@
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\bin\Debug\ltr.exe.config
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\bin\Debug\ltr.exe
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\bin\Debug\ltr.pdb
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr.csprojAssemblyReference.cache
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\MainWindow.g.cs
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\Window1.g.cs
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\App.g.cs
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr_MarkupCompile.cache
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr_MarkupCompile.lref
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\MainWindow.baml
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\Window1.baml
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr.g.resources
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr.Properties.Resources.resources
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr.csproj.GenerateResource.cache
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr.csproj.CoreCompileInputs.cache
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr.exe
+C:\Users\Моялюбимая Оксаночка\source\repos\ltr\obj\Debug\ltr.pdb

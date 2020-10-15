@@ -1,0 +1,29 @@
+﻿<Window x:Class="ltr.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ltr"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid Background="#FFB32727">
+        <TextBox HorizontalAlignment="Left" Height="76" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="177" Margin="250,117,0,0" Name="TBb" RenderTransformOrigin="0.5,0.5" Background="#FFEBE87D" FontSize="22">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.38"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="72" TextWrapping="Wrap" VerticalAlignment="Top" Width="177" Margin="249,37,0,0" Name="TBa" Background="#FFEBE87D" FontSize="22"/>
+        <Button Content="Вычислить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="184" Margin="519,56,0,0" Click="Button_Click" Height="95" FontSize="20" Background="#FF6C9ADC"/>
+        <Label Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="305,267,0,0" Name="label" Background="#FFEBE87D" Height="96" Width="217" FontSize="22"/>
+        <Label Content="Введите число" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="171" Margin="39,114,0,0" Background="#FFEBE87D" FontSize="20"/>
+        <Label Content="Введите число" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="39,37,0,0" Height="72" Width="171" Background="#FFEBE87D" FontSize="20"/>
+        <Label Content="Произведение=" HorizontalAlignment="Left" Margin="39,267,0,0" VerticalAlignment="Top" Height="96" Width="229" Background="#FFEBE87D" FontSize="20"/>
+        <Button Content="Сохранить вывод" HorizontalAlignment="Left" VerticalAlignment="Top" Width="176" Margin="608,353,0,0" Click="Button_Click_1" Height="28" Background="#FF7DEB8E"/>
+
+    </Grid>
+</Window>
